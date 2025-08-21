@@ -11,20 +11,23 @@ main:
   - title: "Home"
     url: /
   
-  - title: "Professional Activities"
-    url: /professional-activities/
-
-  - title: "Research Interests"
-    url: /research-interests/
-
   - title: "Publications"
     url: /publications/
+
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Supervision"
     url: /supervision/
 
-  - title: "Recognitions and Awards"
-    url: /recognitions-and-awards/
+  - title: "Professional Activities"
+    url: /professional-activities/
+
+  - title: "Awards and Honors"
+    url: /awards_and_honors/
 
   # - title: "Publications"
   #   url: /publications/
