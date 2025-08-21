@@ -168,9 +168,9 @@ author_profile: true
 
 ## Full list of journal publications
 
-[<strong>2025</strong>](#journal_2025) | [<strong>2024</strong>](#journal_2024) | [<strong>2023</strong>](#journal_2023) | [<strong>2022</strong>](#journal_2022) | [<strong>2021</strong>](#journal_2021) | [<strong>2020</strong>](#journal_2020) | [<strong>2019</strong>](#journal_2019) | [<strong>2018</strong>](#journal_2018) | [<strong>2017</strong>](#journal_2017) | [<strong>2016</strong>](#journal_2016) | [<strong>2015</strong>](#journal_2015) | [<strong>2014</strong>](#journal_2014) | [<strong>2013</strong>](#journal_2013) | [<strong>2012</strong>](#journal_2012) | [<strong>2011</strong>](#journal_2011) | [<strong>2010</strong>](#journal_2010)
+[<strong>2025</strong>](#journal_2025) | [<strong>2024</strong>](#journal_2024) | [<strong>2023</strong>](#journal_2023) | [<strong>2022</strong>](#journal_2022) | [<strong>2021</strong>](#journal_2021) | [<strong>2020</strong>](#journal_2020) | [<strong>2019</strong>](#journal_2019) | [<strong>2018</strong>](#journal_2018) | [<strong>2017</strong>](#journal_2017) | [<strong>2016</strong>](#journal_2016) | [<strong>2015</strong>](#journal_2015) | [<strong>2014</strong>](#journal_2014) | [<strong>2013</strong>](#journal_2013) | [<strong>2012</strong>](#journal_2012) | [<strong>2011</strong>](#journal_2011)
 
-[<strong>2009</strong>](#journal_2009) | [<strong>2008</strong>](#journal_2008) | [<strong>2007</strong>](#journal_2007) | [<strong>2006</strong>](#journal_2006) | [<strong>2005</strong>](#journal_2005) | [<strong>2004</strong>](#journal_2004) | [<strong>2003</strong>](#journal_2003) | [<strong>2002</strong>](#journal_2002) | [<strong>2001</strong>](#journal_2001) | [<strong>2000</strong>](#journal_2000) | [<strong>Before 2000</strong>](#journal_1999)
+[<strong>2010</strong>](#journal_2010) | [<strong>2009</strong>](#journal_2009) | [<strong>2008</strong>](#journal_2008) | [<strong>2007</strong>](#journal_2007) | [<strong>2006</strong>](#journal_2006) | [<strong>2005</strong>](#journal_2005) | [<strong>2004</strong>](#journal_2004) | [<strong>2003</strong>](#journal_2003) | [<strong>2002</strong>](#journal_2002) | [<strong>2000</strong>](#journal_2000) | [<strong>Before 2000</strong>](#journal_1999)
 
 <a id="journal_2025"></a>
 
